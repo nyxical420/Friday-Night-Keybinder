@@ -35,3 +35,7 @@ Numbers:
 8
 9
 0
+
+
+Possible keybinds for WASD:
+a s k l (leave a and s blank)
